@@ -1,4 +1,4 @@
-const Client = require("./Structures/Rihantmkc");
+const Client = require("./Structures/Rihan");
 const { WebhookClient } = require("discord.js");
 
 const log = (level, message) => {
