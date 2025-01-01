@@ -1,22 +1,29 @@
-# Avon - Source Code Leak by Manas4sure
+# Avon Music Bot  
 
-## Disclaimer
-This source code is provided as-is from a leak shared by **Manas4sure**. The purpose of sharing this repository is for **educational purposes only**. **Unauthorized use or distribution may result in legal consequences**. We strongly advise understanding the code thoroughly before deploying or modifying it.
+Avon is a powerful and feature-rich Discord music bot designed to deliver seamless and high-quality music streaming. With cutting-edge libraries and optimizations, Avon ensures a smooth audio experience for your server.
 
-## Overview
-Avon is a robust Discord bot designed for **seamless music streaming**. This version features the latest integrations and optimizations, utilizing advanced libraries for an efficient audio experience.
+---
 
-### Key Music Features
-- **Shoukaku**: A high-performance Lavalink wrapper, enabling seamless and efficient audio streaming.
-- **Kazagumo**: A feature-rich music manager built on Shoukaku, enhancing audio playback and queue management.
+## 🚀 Features  
+- **Seamless Music Streaming**: Enjoy uninterrupted playback with advanced streaming capabilities.  
+- **Shoukaku**: A high-performance Lavalink wrapper for efficient and lag-free audio streaming.  
+- **Kazagumo**: A robust music manager built on Shoukaku, offering advanced queue management and playback controls.  
+- **User-Friendly Commands**: A wide variety of easy-to-use music commands to elevate your server's entertainment.  
 
-## License
-This source code is distributed without an official license. Unauthorized usage, distribution, or monetization could lead to legal action. **Use at your own risk.**
+---
 
-## Credits
-- **Original Developers**: Avon Development Team
-- **Music Libraries**: Shoukaku & Kazagumo
-- **Leak Contributor**: [Manas4sure](https://discord.gg/cQzRVAqTZ2)
-- **Support**: [Krypton HeadQuarters](https://discord.gg/kryptonbot)
+## 📸 Screenshots  
+*Below are two screenshots showcasing the bot in action.*  
+ 
+![Screenshot 1](./screenshots/screenshot1.png)  
 
-**Note**: Be sure to comply with **Discord's Developer Terms of Service** and all applicable regulations when utilizing or modifying this code.
+  
+![Screenshot 2](./screenshots/screenshot2.png) 
+---
+
+## 📜 Disclaimer  
+
+**Permission Granted**: This repository is uploaded with the explicit permission of the bot's owner, **Rihan**. The owner has granted full rights to publish this code on GitHub and share it publicly.  
+
+*If you encounter any issues or have questions, please reach out through GitHub or Discord.*  
+
