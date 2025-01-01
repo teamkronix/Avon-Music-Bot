@@ -11,7 +11,16 @@ Avon is a powerful and feature-rich Discord music bot designed to deliver seamle
 - **User-Friendly Commands**: A wide variety of easy-to-use music commands to elevate your server's entertainment.  
 
 ---
+## 💡 Need a Custom Discord Bot?  
+ These are just free codes for everyone to use.
+ But if you're looking for something personalized, like:
+ - A custom Discord bot with specific modules (AI, music, moderation, etc.)
+ - A professional website or web application for your brand or project
+ - Custom automation tools tailored to your needs
 
+ discord: [discord.gg/teamkronix](https://discord.gg/MtNqTt8RUx),
+
+---
 ## 📸 Screenshots  
  
 ![Screenshot 1](./screenshot1.png)  
