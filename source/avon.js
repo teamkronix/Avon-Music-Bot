@@ -1,4 +1,4 @@
-const Client = require("./Structures/manasop");
+const Client = require("./Structures/kronix");
 const { WebhookClient } = require("discord.js");
 
 const log = (level, message) => {
